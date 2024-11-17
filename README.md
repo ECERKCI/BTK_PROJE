@@ -1,4 +1,5 @@
 HOUSİNG PRİCES PREDİCTİON
+
 Bu proje, ev özelliklerine dayanarak tahmini ev fiyatlarını hesaplamak için bir makine öğrenmesi modelinin (RandomForestRegressor) oluşturulmasını ve bunun bir web uygulamasında kullanılmasını içeriyor. 
 Kullanıcılar, evlerin çeşitli özelliklerini girerek tahmin edilen fiyatları görüntüleyebilirler.
 
